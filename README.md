@@ -1,2 +1,2 @@
-# misc_c_progs
+# misc_cpp_progs
 Miscellaneous programs in C++
